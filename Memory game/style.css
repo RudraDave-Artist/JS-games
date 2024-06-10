@@ -1,0 +1,13 @@
+#grid{
+    margin: auto;
+   width: 500px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    }
+#grid img{
+    margin: 5px;
+}
+h3{
+    text-align: center;
+}
